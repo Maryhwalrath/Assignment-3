@@ -83,3 +83,13 @@ h3 {
 #img2 {
     margin-bottom: 100px;
 }
+
+.floatleft {
+    float: left;
+    margin-right: 15px border: 3px ridge #000000;
+}
+
+. floatright {
+    float: right;
+    margin-right 15px border: 3px ridge #000000;
+}
